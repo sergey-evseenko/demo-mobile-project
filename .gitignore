@@ -1,0 +1,4 @@
+node_modules/
+output/
+.idea/
+demo-mobile-project.iml
