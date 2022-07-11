@@ -3,13 +3,13 @@ const { I } = inject();
 export = {
 
     buttons: {
-        welcome: "~welcomeLoginButton",
-        confirm: "~ChangeEnvConfirmButton",
-        login: "~loginLoginButton"
+        welcome: '~welcomeLoginButton',
+        confirm: '~ChangeEnvConfirmButton',
+        login: '~loginLoginButton'
     },
     fields: {
-        phone: "~loginPhoneNumberInput",
-        password: "~loginPasswordInput"
+        phone: '~loginPhoneNumberInput',
+        password: '~loginPasswordInput'
     },
 
     selectEnv(env: string) {

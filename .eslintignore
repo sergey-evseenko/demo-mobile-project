@@ -1,0 +1,6 @@
+allure-results/*
+output/*
+node_modules/*
+scripts/*
+
+**/*.d.ts

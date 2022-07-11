@@ -13,7 +13,7 @@ exports.config = {
   output: './output',
   helpers: {
     Appium: {
-      platform:"iOS",
+      platform:'iOS',
       waitForTimeout: 15000,
       desiredCapabilities: {
         app: '/Users/sergeyevseenko/Desktop/Mobile Automation/FlowHealth/PP.app',
